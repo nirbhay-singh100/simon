@@ -1,0 +1,88 @@
+body{
+  background-color: #011F3F;
+}
+
+.Main{
+  height: 520px;
+  margin-top: 70px;
+
+}
+
+.heading{
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3.5rem;
+  color: #FEF2BF;
+
+}
+
+.first{
+  height: 190px;
+  margin-top: 60px;
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+.second{
+
+  height: 190px;
+  margin-left: 350px;
+  margin-right: 350px;
+
+}
+
+.green{
+  margin-left: 21%;
+  background-color: green;
+  height: 150px;
+  width: 150px;
+  margin-top: 23px;
+  border-style: solid;
+  border-width: 0.5rem;
+  border-radius: 25px;
+  color: green;
+
+}
+
+.red{
+  margin-left: 5%;
+
+  background-color: red;
+  height: 150px;
+  width: 150px;
+  margin-top: 23px;
+  border-style: solid;
+  border-width: 0.5rem;
+  border-radius: 25px;
+  color: red;
+}
+
+.yellow {
+  margin-left: 21%;
+  background-color: yellow;
+  height: 150px;
+  width: 150px;
+  margin-top: 23px;
+  border-style: solid;
+  border-width: 0.5rem;
+  border-radius: 25px;
+  padding-top: 20px;
+  color: yellow;
+}
+
+.blue{
+  margin-left: 5%;
+  background-color: blue;
+  height: 150px;
+  width: 150px;
+  margin-top: 21px;
+  border-style: solid;
+  border-width: 0.5rem;
+  border-radius: 25px;
+  color: blue;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
